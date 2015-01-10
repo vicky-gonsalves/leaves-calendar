@@ -1,0 +1,124 @@
+script(src="assets/js/csvParser.js")
+.alert.alert-success(ng-show="showAlert===true")
+    button.close(type="button", ng-click="hideAlert()") &#215;
+    | EXAMPLE SERVER UPDATE REQUEST
+    strong {{serverMessage}}
+.panel
+    .panel-body
+        .col-sm-12.clearfix
+            section.panel.panel-default
+                header.panel-heading.clearfix
+                    h4.col-lg-3.text-warning
+                        | Employee Leaves Calender
+                    .col-lg-9
+                        .col-lg-12.text-center.btn-group.btn-group-justified
+                            a.btn.btn-success.btn-sm(type="button", ng-click="showToday()") Today
+                            a.btn.btn-info.btn-sm(type="button", ng-click="previousMonth()", ng-disabled="currentMonthCount<=-12") Previous
+                            a.btn.btn-purple.btn-sm.text-danger(type="button",disabled) {{monthNames[currentMonth]}} {{currentYear}}
+                            a.btn.btn-info.btn-sm(type="button", ng-click="nextMonth()",ng-disabled="currentMonthCount>=12") Next
+
+                .panel-body(ng-init="selectedUsers=[username]")
+                    .col-lg-12.table-responsive
+                        table.table.table-bordered.table-striped
+                            tr
+                                th(rowspan=2).fixed-width.text-center.border-dark-right
+                                    p Day
+                                    p Employee
+                                th(colspan=2, ng-repeat="day in currentMonthDays", class="{{(today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth())?'success':''}}").text-center
+                                    p {{day.getDate()}}
+                                    p.text-small {{dayNames[day.getDay()-1]}}
+                            tr
+                                td(ng-repeat-start="day in currentMonthDays", class="{{(today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth())?'success':''}}").no-padder.text-center.text-ex-small.border-dark-left AM
+                                td(ng-repeat-end, class="{{(today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth())?'success':''}}").text-center.text-ex-small.border-dark-right PM
+                            tr(ng-repeat="employee in empData" ng-if="(selectedUsers.indexOf(employee['name'])>-1)")
+                                td.border-dark-right.text-center(class="{{employee['name']==userName?'text-bold text-success' :'' }}") {{employee['name']}}
+                                td(ng-repeat-start="day in currentMonthDays", class="{{(today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth())?'success':''}}").text-center.border-dark-left
+                                    span(ng-repeat="log in employee['log']")
+                                        span {{log["date"].getMonth()==day.getMonth() && log["date"].getDate()==day.getDate() && log["date"].getFullYear()==day.getFullYear() && log["unit"]=="AM" ? log["value"]:''}}
+                                    span(ng-if="employee['name']==userName && leaveTodayAM!='undefined' && today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth()") {{leaveTodayAM}}
+                                td(ng-repeat-end, class="{{(today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth())?'success':''}}").text-center.border-dark-right
+                                    span(ng-repeat="log in employee['log']")
+                                        span {{log["date"].getMonth()==day.getMonth() && log["date"].getDate()==day.getDate() && log["date"].getFullYear()==day.getFullYear() && log["unit"]=="PM" ? log["value"]:''}}
+                                    span(ng-if="employee['name']==userName && leaveTodayPM!='undefined' && today.getDate() == day.getDate() && today.getFullYear()==day.getFullYear()&& today.getMonth()==day.getMonth()") {{leaveTodayPM}}
+
+        .col-lg-12(ng-show="clashNames.length>0")
+            section.panel.panel-default
+                header.panel-heading
+                    | Planned Leaves Clash
+                .panel-body
+                    h4.text-warning(ng-repeat="clashName in clashNames")
+                        | {{clashName}}
+                        ul
+                            li(ng-repeat="clash in clashes[clashName]['data']").text-primary {{clash.date.getMonth()+1}}/{{clash.date.getDate()}}/{{clash.date.getFullYear()}} {{clash.unit}}
+
+
+        .col-lg-6.clearfix
+            section.panel.panel-default
+                header.panel-heading(ng-show="today.getDay!=0 && today.getDay()!=6")
+                    | Register Today As
+                header.panel-heading(ng-hide="today.getDay!=0 && today.getDay()!=6") Happy Weekend!
+                .panel-body(ng-show="today.getDay!=0 && today.getDay()!=6")
+                    form.col-lg-6.clearfix
+                        h4 AM
+                        .checkbox(ng-repeat="leaveType in leaveTypes")
+                            label
+                                input(name="leaveTodayAM",ng-model="$parent.leaveTodayAM", type="radio", value="{{leaveType['value']}}", required, ng-change="setTodayLeaveAM()")
+                                | &nbsp;{{leaveType['name']}}
+                    form.col-lg-6.clearfix
+                        h4 PM
+                        .checkbox(ng-repeat="leaveType in leaveTypes")
+                            label
+                                input(name="leaveTodayPM",ng-model="$parent.leaveTodayPM", type="radio", value="{{leaveType['value']}}", required, ng-change="setTodayLeavePM()")
+                                | &nbsp;{{leaveType['name']}}
+            section.panel.panel-default
+                header.panel-heading
+                    | Planned Leave
+                .panel-body
+                    form(name="myForm2", ng-submit="savePlannedLeave()")
+                        .col-sm-12
+                            .form-group.col-sm-12
+                                label(for="value") Mark Time As
+                                select#value.form-control(required, ng-model='plannedLeaveUnit')
+                                    option(value='') Select
+                                    option(value='V') Vacation
+                                    option(value='P') Public Holiday
+                                    option(value='T') Training
+                        .col-sm-12
+                            .col-sm-6
+                                .form-group.col-sm-12
+                                    label From
+                                        input#fromDate.form-control(type='date', ng-model='fromDate', required)
+                            .col-sm-6
+                                .checkbox
+                                    label
+                                        input(type="radio",name='plannedFrom',ng-model='plannedFrom', value="AM", required)
+                                        | &nbsp;AM
+                                .checkbox
+                                    label
+                                        input(type="radio",name='plannedFrom', ng-model='plannedFrom', value="PM", required)
+                                        | &nbsp;PM
+                        .col-sm-12
+                            .col-sm-6
+                                .form-group.col-sm-12
+                                    label To
+                                        input.form-control(type='date', ng-model='toDate', required)
+                            .col-sm-6
+                                .checkbox
+                                    label
+                                        input(type="radio",name='plannedTo', ng-model='plannedTo', value="AM", required)
+                                        | &nbsp;AM
+                                .checkbox
+                                    label
+                                        input(type="radio",name='plannedTo', ng-model='plannedTo', value="PM", required)
+                                        | &nbsp;PM
+                        .col-sm-12
+                            .form-group.col-sm-4
+                                button.btn.btn-primary(type='submit') Save
+        .col-lg-6
+            section.panel.panel-default.pos-rlt.clearfix
+                header.panel-heading
+                    | Employees
+                .panel-body
+                    .checkbox(ng-repeat="employee in empData", ng-show="employee['name']!=null")
+                        label {{employee['name']}}
+                            input(name="selectedUsers[]",ng-disabled="userName==employee['name']", ng-model="selectedUsers", type="checkbox", value="{{employee['name']}}", ng-checked="selectedUsers.indexOf(employee['name']) > -1", ng-click="toggleSelection(employee['name'])")

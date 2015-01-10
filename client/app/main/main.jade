@@ -1,0 +1,11 @@
+div(ng-include='"components/navbar/navbar.html"')
+
+header#banner.hero-unit
+  .container
+      h4 Employee Leaves Calender
+
+.container
+  .row
+    .col-lg-123
+      div(calender ng-show="ifLoggedIn")
+

@@ -1,0 +1,675 @@
+userid,name,date,unit,value
+1,Matthew Webb,10/6/2014,AM,V
+1,Matthew Webb,10/6/2014,PM,V
+1,Matthew Webb,10/7/2014,AM,V
+1,Matthew Webb,10/7/2014,PM,V
+1,Matthew Webb,10/8/2014,AM,V
+1,Matthew Webb,10/8/2014,PM,V
+1,Matthew Webb,10/9/2014,AM,V
+1,Matthew Webb,10/9/2014,PM,V
+1,Matthew Webb,10/10/2014,AM,V
+1,Matthew Webb,10/10/2014,PM,V
+1,Matthew Webb,10/20/2014,AM,T
+1,Matthew Webb,11/20/2014,AM,V
+1,Matthew Webb,11/20/2014,PM,V
+1,Matthew Webb,11/21/2014,AM,V
+1,Matthew Webb,11/21/2014,PM,V
+1,Matthew Webb,12/25/2014,AM,P
+1,Matthew Webb,12/25/2014,PM,P
+1,Matthew Webb,12/26/2014,AM,P
+1,Matthew Webb,12/26/2014,PM,P
+1,Matthew Webb,1/1/2015,AM,P
+1,Matthew Webb,1/1/2015,PM,P
+1,Matthew Webb,4/3/2015,AM,P
+1,Matthew Webb,4/6/2015,PM,P
+1,Matthew Webb,4/6/2015,AM,P
+1,Matthew Webb,4/13/2015,AM,V
+1,Matthew Webb,4/13/2015,PM,V
+1,Matthew Webb,4/14/2015,AM,V
+1,Matthew Webb,4/14/2015,PM,V
+1,Matthew Webb,4/15/2015,AM,V
+1,Matthew Webb,4/15/2015,PM,V
+1,Matthew Webb,4/16/2015,AM,V
+1,Matthew Webb,4/16/2015,PM,V
+1,Matthew Webb,4/17/2015,AM,V
+1,Matthew Webb,4/17/2015,PM,V
+1,Matthew Webb,5/4/2015,PM,P
+1,Matthew Webb,5/4/2015,AM,P
+1,Matthew Webb,5/25/2015,PM,P
+1,Matthew Webb,5/25/2015,AM,P
+1,Matthew Webb,8/31/2015,PM,P
+1,Matthew Webb,8/31/2015,AM,P
+1,Matthew Webb,11/11/2015,AM,T
+1,Matthew Webb,11/11/2015,PM,T
+1,Matthew Webb,12/25/2015,PM,P
+1,Matthew Webb,12/25/2015,AM,P
+1,Matthew Webb,12/28/2015,PM,P
+1,Matthew Webb,12/28/2015,AM,P
+2,Thomas William Burgess,12/22/2014,AM,V
+2,Thomas William Burgess,12/22/2014,PM,V
+2,Thomas William Burgess,12/23/2014,AM,V
+2,Thomas William Burgess,12/23/2014,PM,V
+2,Thomas William Burgess,12/24/2014,AM,V
+2,Thomas William Burgess,12/24/2014,PM,V
+2,Thomas William Burgess,12/25/2014,AM,P
+2,Thomas William Burgess,12/25/2014,PM,P
+2,Thomas William Burgess,12/26/2014,AM,P
+2,Thomas William Burgess,12/26/2014,PM,P
+2,Thomas William Burgess,1/1/2015,AM,P
+2,Thomas William Burgess,1/1/2015,PM,P
+2,Thomas William Burgess,4/3/2015,AM,P
+2,Thomas William Burgess,4/6/2015,PM,P
+2,Thomas William Burgess,4/6/2015,AM,P
+2,Thomas William Burgess,5/4/2015,PM,P
+2,Thomas William Burgess,5/4/2015,AM,P
+2,Thomas William Burgess,5/25/2015,PM,P
+2,Thomas William Burgess,5/25/2015,AM,P
+2,Thomas William Burgess,8/31/2015,PM,P
+2,Thomas William Burgess,8/31/2015,AM,P
+2,Thomas William Burgess,11/11/2015,AM,T
+2,Thomas William Burgess,11/11/2015,PM,T
+2,Thomas William Burgess,12/25/2015,PM,P
+2,Thomas William Burgess,12/25/2015,AM,P
+2,Thomas William Burgess,12/28/2015,PM,P
+2,Thomas William Burgess,12/28/2015,AM,P
+3,Henry Sullivan,12/22/2014,AM,V
+3,Henry Sullivan,12/22/2014,PM,V
+3,Henry Sullivan,12/23/2014,AM,V
+3,Henry Sullivan,12/23/2014,PM,V
+3,Henry Sullivan,12/24/2014,AM,V
+3,Henry Sullivan,12/24/2014,PM,V
+3,Henry Sullivan,12/25/2014,AM,P
+3,Henry Sullivan,12/25/2014,PM,P
+3,Henry Sullivan,12/26/2014,AM,P
+3,Henry Sullivan,12/26/2014,PM,P
+3,Henry Sullivan,1/1/2015,AM,P
+3,Henry Sullivan,1/1/2015,PM,P
+3,Henry Sullivan,4/3/2015,AM,P
+3,Henry Sullivan,4/6/2015,PM,P
+3,Henry Sullivan,4/6/2015,AM,P
+3,Henry Sullivan,5/4/2015,PM,P
+3,Henry Sullivan,5/4/2015,AM,P
+3,Henry Sullivan,5/25/2015,PM,P
+3,Henry Sullivan,5/25/2015,AM,P
+3,Henry Sullivan,8/31/2015,PM,P
+3,Henry Sullivan,8/31/2015,AM,P
+3,Henry Sullivan,11/11/2015,AM,T
+3,Henry Sullivan,11/11/2015,PM,T
+3,Henry Sullivan,12/25/2015,PM,P
+3,Henry Sullivan,12/25/2015,AM,P
+3,Henry Sullivan,12/28/2015,PM,P
+3,Henry Sullivan,12/28/2015,AM,P
+4,Enrique Tirabocchi,11/3/2014,AM,T
+4,Enrique Tirabocchi,11/3/2014,PM,T
+4,Enrique Tirabocchi,12/22/2014,AM,V
+4,Enrique Tirabocchi,12/22/2014,PM,V
+4,Enrique Tirabocchi,12/23/2014,AM,V
+4,Enrique Tirabocchi,12/23/2014,PM,V
+4,Enrique Tirabocchi,12/24/2014,AM,V
+4,Enrique Tirabocchi,12/24/2014,PM,V
+4,Enrique Tirabocchi,12/25/2014,AM,P
+4,Enrique Tirabocchi,12/25/2014,PM,P
+4,Enrique Tirabocchi,12/26/2014,AM,P
+4,Enrique Tirabocchi,12/26/2014,PM,P
+4,Enrique Tirabocchi,1/1/2015,AM,P
+4,Enrique Tirabocchi,1/1/2015,PM,P
+4,Enrique Tirabocchi,4/3/2015,AM,P
+4,Enrique Tirabocchi,4/6/2015,PM,P
+4,Enrique Tirabocchi,4/6/2015,AM,P
+4,Enrique Tirabocchi,5/4/2015,PM,P
+4,Enrique Tirabocchi,5/4/2015,AM,P
+4,Enrique Tirabocchi,5/25/2015,PM,P
+4,Enrique Tirabocchi,5/25/2015,AM,P
+4,Enrique Tirabocchi,8/31/2015,PM,P
+4,Enrique Tirabocchi,8/31/2015,AM,P
+4,Enrique Tirabocchi,11/11/2015,AM,T
+4,Enrique Tirabocchi,11/11/2015,PM,T
+4,Enrique Tirabocchi,12/25/2015,PM,P
+4,Enrique Tirabocchi,12/25/2015,AM,P
+4,Enrique Tirabocchi,12/28/2015,PM,P
+4,Enrique Tirabocchi,12/28/2015,AM,P
+5,Charles Toth,12/23/2014,AM,V
+5,Charles Toth,12/23/2014,PM,V
+5,Charles Toth,12/24/2014,AM,V
+5,Charles Toth,12/24/2014,PM,V
+5,Charles Toth,12/25/2014,AM,P
+5,Charles Toth,12/25/2014,PM,P
+5,Charles Toth,12/26/2014,AM,P
+5,Charles Toth,12/26/2014,PM,P
+5,Charles Toth,1/1/2015,AM,P
+5,Charles Toth,1/1/2015,PM,P
+5,Charles Toth,2/2/2015,AM,V
+5,Charles Toth,4/3/2015,AM,P
+5,Charles Toth,4/6/2015,PM,P
+5,Charles Toth,4/6/2015,AM,P
+5,Charles Toth,5/4/2015,PM,P
+5,Charles Toth,5/4/2015,AM,P
+5,Charles Toth,5/25/2015,PM,P
+5,Charles Toth,5/25/2015,AM,P
+5,Charles Toth,8/31/2015,PM,P
+5,Charles Toth,8/31/2015,AM,P
+5,Charles Toth,12/25/2015,PM,P
+5,Charles Toth,12/25/2015,AM,P
+5,Charles Toth,12/28/2015,PM,P
+5,Charles Toth,12/28/2015,AM,P
+6,Gertrude Ederle,10/27/2014,AM,V
+6,Gertrude Ederle,10/27/2014,PM,V
+6,Gertrude Ederle,10/28/2014,AM,V
+6,Gertrude Ederle,10/28/2014,PM,V
+6,Gertrude Ederle,10/29/2014,AM,V
+6,Gertrude Ederle,10/29/2014,PM,V
+6,Gertrude Ederle,10/30/2014,AM,V
+6,Gertrude Ederle,10/30/2014,PM,V
+6,Gertrude Ederle,10/31/2014,AM,V
+6,Gertrude Ederle,10/31/2014,PM,V
+6,Gertrude Ederle,12/25/2014,AM,P
+6,Gertrude Ederle,12/25/2014,PM,P
+6,Gertrude Ederle,12/26/2014,AM,P
+6,Gertrude Ederle,12/26/2014,PM,P
+6,Gertrude Ederle,1/1/2015,AM,P
+6,Gertrude Ederle,1/1/2015,PM,P
+6,Gertrude Ederle,4/3/2015,AM,P
+6,Gertrude Ederle,4/6/2015,PM,P
+6,Gertrude Ederle,4/6/2015,AM,P
+6,Gertrude Ederle,5/4/2015,PM,P
+6,Gertrude Ederle,5/4/2015,AM,P
+6,Gertrude Ederle,5/25/2015,PM,P
+6,Gertrude Ederle,5/25/2015,AM,P
+6,Gertrude Ederle,8/31/2015,PM,P
+6,Gertrude Ederle,8/31/2015,AM,P
+6,Gertrude Ederle,12/25/2015,PM,P
+6,Gertrude Ederle,12/25/2015,AM,P
+6,Gertrude Ederle,12/28/2015,PM,P
+6,Gertrude Ederle,12/28/2015,AM,P
+7,Amelia Gade Corson,12/25/2014,AM,P
+7,Amelia Gade Corson,12/25/2014,PM,P
+7,Amelia Gade Corson,12/26/2014,AM,P
+7,Amelia Gade Corson,12/26/2014,PM,P
+7,Amelia Gade Corson,1/1/2015,AM,P
+7,Amelia Gade Corson,1/1/2015,PM,P
+7,Amelia Gade Corson,4/3/2015,AM,P
+7,Amelia Gade Corson,4/6/2015,PM,P
+7,Amelia Gade Corson,4/6/2015,AM,P
+7,Amelia Gade Corson,5/4/2015,PM,P
+7,Amelia Gade Corson,5/4/2015,AM,P
+7,Amelia Gade Corson,5/25/2015,PM,P
+7,Amelia Gade Corson,5/25/2015,AM,P
+7,Amelia Gade Corson,8/31/2015,PM,P
+7,Amelia Gade Corson,8/31/2015,AM,P
+7,Amelia Gade Corson,12/25/2015,PM,P
+7,Amelia Gade Corson,12/25/2015,AM,P
+7,Amelia Gade Corson,12/28/2015,PM,P
+7,Amelia Gade Corson,12/28/2015,AM,P
+8,Edward H. Temme,12/25/2014,AM,P
+8,Edward H. Temme,12/25/2014,PM,P
+8,Edward H. Temme,12/26/2014,AM,P
+8,Edward H. Temme,12/26/2014,PM,P
+8,Edward H. Temme,1/1/2015,AM,P
+8,Edward H. Temme,1/1/2015,PM,P
+8,Edward H. Temme,2/2/2015,PM,V
+8,Edward H. Temme,2/3/2015,AM,V
+8,Edward H. Temme,2/3/2015,PM,V
+8,Edward H. Temme,2/4/2015,AM,V
+8,Edward H. Temme,2/4/2015,PM,V
+8,Edward H. Temme,2/5/2015,AM,V
+8,Edward H. Temme,2/5/2015,PM,V
+8,Edward H. Temme,2/6/2015,AM,V
+8,Edward H. Temme,2/6/2015,PM,V
+8,Edward H. Temme,2/9/2015,AM,V
+8,Edward H. Temme,2/9/2015,PM,V
+8,Edward H. Temme,2/10/2015,AM,V
+8,Edward H. Temme,2/10/2015,PM,V
+8,Edward H. Temme,2/11/2015,AM,V
+8,Edward H. Temme,2/11/2015,PM,V
+8,Edward H. Temme,2/12/2015,AM,V
+8,Edward H. Temme,2/12/2015,PM,V
+8,Edward H. Temme,2/13/2015,AM,V
+8,Edward H. Temme,2/13/2015,PM,V
+8,Edward H. Temme,4/3/2015,AM,P
+8,Edward H. Temme,4/6/2015,PM,P
+8,Edward H. Temme,4/6/2015,AM,P
+8,Edward H. Temme,5/4/2015,PM,P
+8,Edward H. Temme,5/4/2015,AM,P
+8,Edward H. Temme,5/25/2015,PM,P
+8,Edward H. Temme,5/25/2015,AM,P
+8,Edward H. Temme,8/31/2015,PM,P
+8,Edward H. Temme,8/31/2015,AM,P
+8,Edward H. Temme,12/25/2015,PM,P
+8,Edward H. Temme,12/25/2015,AM,P
+8,Edward H. Temme,12/28/2015,PM,P
+8,Edward H. Temme,12/28/2015,AM,P
+9,Florence Chadwick,12/25/2014,AM,P
+9,Florence Chadwick,12/25/2014,PM,P
+9,Florence Chadwick,12/26/2014,AM,P
+9,Florence Chadwick,12/26/2014,PM,P
+9,Florence Chadwick,1/1/2015,AM,P
+9,Florence Chadwick,1/1/2015,PM,P
+9,Florence Chadwick,4/3/2015,AM,P
+9,Florence Chadwick,4/6/2015,PM,P
+9,Florence Chadwick,4/6/2015,AM,P
+9,Florence Chadwick,5/4/2015,PM,P
+9,Florence Chadwick,5/4/2015,AM,P
+9,Florence Chadwick,5/25/2015,PM,P
+9,Florence Chadwick,5/25/2015,AM,P
+9,Florence Chadwick,8/31/2015,PM,P
+9,Florence Chadwick,8/31/2015,AM,P
+9,Florence Chadwick,11/11/2015,AM,T
+9,Florence Chadwick,11/11/2015,PM,T
+9,Florence Chadwick,12/25/2015,PM,P
+9,Florence Chadwick,12/25/2015,AM,P
+9,Florence Chadwick,12/28/2015,PM,P
+9,Florence Chadwick,12/28/2015,AM,P
+10,Damian Piz Beltran,10/27/2014,AM,V
+10,Damian Piz Beltran,10/27/2014,PM,V
+10,Damian Piz Beltran,10/28/2014,AM,V
+10,Damian Piz Beltran,10/28/2014,PM,V
+10,Damian Piz Beltran,10/29/2014,AM,V
+10,Damian Piz Beltran,10/29/2014,PM,V
+10,Damian Piz Beltran,10/30/2014,AM,V
+10,Damian Piz Beltran,10/30/2014,PM,V
+10,Damian Piz Beltran,10/31/2014,AM,V
+10,Damian Piz Beltran,10/31/2014,PM,V
+10,Damian Piz Beltran,12/25/2014,AM,P
+10,Damian Piz Beltran,12/25/2014,PM,P
+10,Damian Piz Beltran,12/26/2014,AM,P
+10,Damian Piz Beltran,12/26/2014,PM,P
+10,Damian Piz Beltran,1/1/2015,AM,P
+10,Damian Piz Beltran,1/1/2015,PM,P
+10,Damian Piz Beltran,4/3/2015,AM,P
+10,Damian Piz Beltran,4/6/2015,PM,P
+10,Damian Piz Beltran,4/6/2015,AM,P
+10,Damian Piz Beltran,5/4/2015,PM,P
+10,Damian Piz Beltran,5/4/2015,AM,P
+10,Damian Piz Beltran,5/25/2015,PM,P
+10,Damian Piz Beltran,5/25/2015,AM,P
+10,Damian Piz Beltran,8/31/2015,PM,P
+10,Damian Piz Beltran,8/31/2015,AM,P
+10,Damian Piz Beltran,11/11/2015,AM,T
+10,Damian Piz Beltran,11/11/2015,PM,T
+10,Damian Piz Beltran,12/25/2015,PM,P
+10,Damian Piz Beltran,12/25/2015,AM,P
+10,Damian Piz Beltran,12/28/2015,PM,P
+10,Damian Piz Beltran,12/28/2015,AM,P
+11,Marilyn Bell,10/27/2014,AM,T
+11,Marilyn Bell,10/27/2014,PM,T
+11,Marilyn Bell,10/28/2014,AM,T
+11,Marilyn Bell,10/28/2014,PM,T
+11,Marilyn Bell,10/29/2014,AM,T
+11,Marilyn Bell,10/29/2014,PM,T
+11,Marilyn Bell,10/30/2014,AM,T
+11,Marilyn Bell,10/30/2014,PM,T
+11,Marilyn Bell,10/31/2014,AM,T
+11,Marilyn Bell,10/31/2014,PM,T
+11,Marilyn Bell,11/3/2014,AM,T
+11,Marilyn Bell,11/3/2014,PM,T
+11,Marilyn Bell,11/4/2014,AM,T
+11,Marilyn Bell,11/4/2014,PM,T
+11,Marilyn Bell,11/5/2014,AM,T
+11,Marilyn Bell,11/5/2014,PM,T
+11,Marilyn Bell,11/6/2014,AM,T
+11,Marilyn Bell,11/6/2014,PM,T
+11,Marilyn Bell,11/7/2014,AM,T
+11,Marilyn Bell,11/7/2014,PM,T
+11,Marilyn Bell,11/10/2014,AM,T
+11,Marilyn Bell,11/10/2014,PM,T
+11,Marilyn Bell,11/11/2014,AM,T
+11,Marilyn Bell,11/11/2014,PM,T
+11,Marilyn Bell,11/12/2014,AM,T
+11,Marilyn Bell,11/12/2014,PM,T
+11,Marilyn Bell,11/13/2014,AM,T
+11,Marilyn Bell,11/13/2014,PM,T
+11,Marilyn Bell,11/14/2014,AM,T
+11,Marilyn Bell,11/14/2014,PM,T
+11,Marilyn Bell,11/17/2014,AM,T
+11,Marilyn Bell,11/17/2014,PM,T
+11,Marilyn Bell,11/18/2014,AM,T
+11,Marilyn Bell,11/18/2014,PM,T
+11,Marilyn Bell,11/19/2014,AM,T
+11,Marilyn Bell,11/19/2014,PM,T
+11,Marilyn Bell,11/20/2014,AM,T
+11,Marilyn Bell,11/20/2014,PM,T
+11,Marilyn Bell,11/21/2014,AM,T
+11,Marilyn Bell,11/21/2014,PM,T
+11,Marilyn Bell,11/24/2014,AM,T
+11,Marilyn Bell,11/24/2014,PM,T
+11,Marilyn Bell,11/25/2014,AM,T
+11,Marilyn Bell,11/25/2014,PM,T
+11,Marilyn Bell,11/26/2014,AM,T
+11,Marilyn Bell,11/26/2014,PM,T
+11,Marilyn Bell,11/27/2014,AM,T
+11,Marilyn Bell,11/27/2014,PM,T
+11,Marilyn Bell,11/28/2014,AM,T
+11,Marilyn Bell,11/28/2014,PM,T
+11,Marilyn Bell,12/25/2014,AM,P
+11,Marilyn Bell,12/25/2014,PM,P
+11,Marilyn Bell,12/26/2014,AM,P
+11,Marilyn Bell,12/26/2014,PM,P
+11,Marilyn Bell,1/1/2015,AM,P
+11,Marilyn Bell,1/1/2015,PM,P
+11,Marilyn Bell,4/3/2015,AM,P
+11,Marilyn Bell,4/6/2015,PM,P
+11,Marilyn Bell,4/6/2015,AM,P
+11,Marilyn Bell,5/4/2015,PM,P
+11,Marilyn Bell,5/4/2015,AM,P
+11,Marilyn Bell,5/25/2015,PM,P
+11,Marilyn Bell,5/25/2015,AM,P
+11,Marilyn Bell,8/31/2015,PM,P
+11,Marilyn Bell,8/31/2015,AM,P
+11,Marilyn Bell,11/11/2015,AM,T
+11,Marilyn Bell,11/11/2015,PM,T
+11,Marilyn Bell,12/25/2015,PM,P
+11,Marilyn Bell,12/25/2015,AM,P
+11,Marilyn Bell,12/28/2015,PM,P
+11,Marilyn Bell,12/28/2015,AM,P
+12,Brojen Das,12/23/2014,AM,V
+12,Brojen Das,12/23/2014,PM,V
+12,Brojen Das,12/24/2014,AM,V
+12,Brojen Das,12/24/2014,PM,V
+12,Brojen Das,12/25/2014,AM,P
+12,Brojen Das,12/25/2014,PM,P
+12,Brojen Das,12/26/2014,AM,P
+12,Brojen Das,12/26/2014,PM,P
+12,Brojen Das,1/1/2015,AM,P
+12,Brojen Das,1/1/2015,PM,P
+12,Brojen Das,4/3/2015,AM,P
+12,Brojen Das,4/6/2015,PM,P
+12,Brojen Das,4/6/2015,AM,P
+12,Brojen Das,5/4/2015,PM,P
+12,Brojen Das,5/4/2015,AM,P
+12,Brojen Das,5/25/2015,PM,P
+12,Brojen Das,5/25/2015,AM,P
+12,Brojen Das,8/31/2015,PM,P
+12,Brojen Das,8/31/2015,AM,P
+12,Brojen Das,12/25/2015,PM,P
+12,Brojen Das,12/25/2015,AM,P
+12,Brojen Das,12/28/2015,PM,P
+12,Brojen Das,12/28/2015,AM,P
+13,Arati Saha,12/22/2014,AM,V
+13,Arati Saha,12/22/2014,PM,V
+13,Arati Saha,12/23/2014,AM,V
+13,Arati Saha,12/23/2014,PM,V
+13,Arati Saha,12/24/2014,AM,V
+13,Arati Saha,12/24/2014,PM,V
+13,Arati Saha,12/25/2014,AM,P
+13,Arati Saha,12/25/2014,PM,P
+13,Arati Saha,12/26/2014,AM,P
+13,Arati Saha,12/26/2014,PM,P
+13,Arati Saha,1/1/2015,AM,P
+13,Arati Saha,1/1/2015,PM,P
+13,Arati Saha,4/3/2015,AM,P
+13,Arati Saha,4/6/2015,PM,P
+13,Arati Saha,4/6/2015,AM,P
+13,Arati Saha,5/4/2015,PM,P
+13,Arati Saha,5/4/2015,AM,P
+13,Arati Saha,5/25/2015,PM,P
+13,Arati Saha,5/25/2015,AM,P
+13,Arati Saha,8/31/2015,PM,P
+13,Arati Saha,8/31/2015,AM,P
+13,Arati Saha,11/11/2015,AM,T
+13,Arati Saha,11/11/2015,PM,T
+13,Arati Saha,12/25/2015,PM,P
+13,Arati Saha,12/25/2015,AM,P
+13,Arati Saha,12/28/2015,PM,P
+13,Arati Saha,12/28/2015,AM,P
+14,Mihir Sen,12/22/2014,AM,V
+14,Mihir Sen,12/22/2014,PM,V
+14,Mihir Sen,12/23/2014,AM,V
+14,Mihir Sen,12/23/2014,PM,V
+14,Mihir Sen,12/24/2014,AM,V
+14,Mihir Sen,12/24/2014,PM,V
+14,Mihir Sen,12/25/2014,AM,P
+14,Mihir Sen,12/25/2014,PM,P
+14,Mihir Sen,12/26/2014,AM,P
+14,Mihir Sen,12/26/2014,PM,P
+14,Mihir Sen,1/1/2015,AM,P
+14,Mihir Sen,1/1/2015,PM,P
+14,Mihir Sen,4/3/2015,AM,P
+14,Mihir Sen,4/6/2015,PM,P
+14,Mihir Sen,4/6/2015,AM,P
+14,Mihir Sen,5/4/2015,PM,P
+14,Mihir Sen,5/4/2015,AM,P
+14,Mihir Sen,5/25/2015,PM,P
+14,Mihir Sen,5/25/2015,AM,P
+14,Mihir Sen,8/31/2015,PM,P
+14,Mihir Sen,8/31/2015,AM,P
+14,Mihir Sen,11/11/2015,AM,T
+14,Mihir Sen,11/11/2015,PM,T
+14,Mihir Sen,12/25/2015,PM,P
+14,Mihir Sen,12/25/2015,AM,P
+14,Mihir Sen,12/28/2015,PM,P
+14,Mihir Sen,12/28/2015,AM,P
+15,Antonio Abertondo,12/22/2014,AM,V
+15,Antonio Abertondo,12/22/2014,PM,V
+15,Antonio Abertondo,12/23/2014,AM,V
+15,Antonio Abertondo,12/23/2014,PM,V
+15,Antonio Abertondo,12/24/2014,AM,V
+15,Antonio Abertondo,12/24/2014,PM,V
+15,Antonio Abertondo,12/25/2014,AM,P
+15,Antonio Abertondo,12/25/2014,PM,P
+15,Antonio Abertondo,12/26/2014,AM,P
+15,Antonio Abertondo,12/26/2014,PM,P
+15,Antonio Abertondo,1/1/2015,AM,P
+15,Antonio Abertondo,1/1/2015,PM,P
+15,Antonio Abertondo,4/3/2015,AM,P
+15,Antonio Abertondo,4/6/2015,PM,P
+15,Antonio Abertondo,4/6/2015,AM,P
+15,Antonio Abertondo,5/4/2015,PM,P
+15,Antonio Abertondo,5/4/2015,AM,P
+15,Antonio Abertondo,5/25/2015,PM,P
+15,Antonio Abertondo,5/25/2015,AM,P
+15,Antonio Abertondo,8/31/2015,PM,P
+15,Antonio Abertondo,8/31/2015,AM,P
+15,Antonio Abertondo,12/25/2015,PM,P
+15,Antonio Abertondo,12/25/2015,AM,P
+15,Antonio Abertondo,12/28/2015,PM,P
+15,Antonio Abertondo,12/28/2015,AM,P
+16,Jon Erikson,12/22/2014,AM,V
+16,Jon Erikson,12/22/2014,PM,V
+16,Jon Erikson,12/23/2014,AM,V
+16,Jon Erikson,12/23/2014,PM,V
+16,Jon Erikson,12/24/2014,AM,V
+16,Jon Erikson,12/24/2014,PM,V
+16,Jon Erikson,12/25/2014,AM,P
+16,Jon Erikson,12/25/2014,PM,P
+16,Jon Erikson,12/26/2014,AM,P
+16,Jon Erikson,12/26/2014,PM,P
+16,Jon Erikson,1/1/2015,AM,P
+16,Jon Erikson,1/1/2015,PM,P
+16,Jon Erikson,4/3/2015,AM,P
+16,Jon Erikson,4/6/2015,PM,P
+16,Jon Erikson,4/6/2015,AM,P
+16,Jon Erikson,5/4/2015,PM,P
+16,Jon Erikson,5/4/2015,AM,P
+16,Jon Erikson,5/25/2015,PM,P
+16,Jon Erikson,5/25/2015,AM,P
+16,Jon Erikson,8/31/2015,PM,P
+16,Jon Erikson,8/31/2015,AM,P
+16,Jon Erikson,12/25/2015,PM,P
+16,Jon Erikson,12/25/2015,AM,P
+16,Jon Erikson,12/28/2015,PM,P
+16,Jon Erikson,12/28/2015,AM,P
+17,John Maclean,10/27/2014,AM,V
+17,John Maclean,10/27/2014,PM,V
+17,John Maclean,10/28/2014,AM,V
+17,John Maclean,10/28/2014,PM,V
+17,John Maclean,10/29/2014,AM,V
+17,John Maclean,10/29/2014,PM,V
+17,John Maclean,11/3/2014,AM,T
+17,John Maclean,11/3/2014,PM,T
+17,John Maclean,12/22/2014,AM,V
+17,John Maclean,12/22/2014,PM,V
+17,John Maclean,12/23/2014,AM,V
+17,John Maclean,12/23/2014,PM,V
+17,John Maclean,12/24/2014,AM,V
+17,John Maclean,12/24/2014,PM,V
+17,John Maclean,12/25/2014,AM,P
+17,John Maclean,12/25/2014,PM,P
+17,John Maclean,12/26/2014,AM,P
+17,John Maclean,12/26/2014,PM,P
+17,John Maclean,1/1/2015,AM,P
+17,John Maclean,1/1/2015,PM,P
+17,John Maclean,4/3/2015,AM,P
+17,John Maclean,4/6/2015,PM,P
+17,John Maclean,4/6/2015,AM,P
+17,John Maclean,5/4/2015,PM,P
+17,John Maclean,5/4/2015,AM,P
+17,John Maclean,5/25/2015,PM,P
+17,John Maclean,5/25/2015,AM,P
+17,John Maclean,8/31/2015,PM,P
+17,John Maclean,8/31/2015,AM,P
+17,John Maclean,12/25/2015,PM,P
+17,John Maclean,12/25/2015,AM,P
+17,John Maclean,12/28/2015,PM,P
+17,John Maclean,12/28/2015,AM,P
+18,Philippe Croizon,10/27/2014,AM,V
+18,Philippe Croizon,10/27/2014,PM,V
+18,Philippe Croizon,10/28/2014,AM,V
+18,Philippe Croizon,10/28/2014,PM,V
+18,Philippe Croizon,10/29/2014,AM,V
+18,Philippe Croizon,10/29/2014,PM,V
+18,Philippe Croizon,10/30/2014,AM,V
+18,Philippe Croizon,10/30/2014,PM,V
+18,Philippe Croizon,10/31/2014,AM,V
+18,Philippe Croizon,10/31/2014,PM,V
+18,Philippe Croizon,12/25/2014,AM,P
+18,Philippe Croizon,12/25/2014,PM,P
+18,Philippe Croizon,12/26/2014,AM,P
+18,Philippe Croizon,12/26/2014,PM,P
+18,Philippe Croizon,1/1/2015,AM,P
+18,Philippe Croizon,1/1/2015,PM,P
+18,Philippe Croizon,4/3/2015,AM,P
+18,Philippe Croizon,4/6/2015,PM,P
+18,Philippe Croizon,4/6/2015,AM,P
+18,Philippe Croizon,5/4/2015,PM,P
+18,Philippe Croizon,5/4/2015,AM,P
+18,Philippe Croizon,5/25/2015,PM,P
+18,Philippe Croizon,5/25/2015,AM,P
+18,Philippe Croizon,8/31/2015,PM,P
+18,Philippe Croizon,8/31/2015,AM,P
+18,Philippe Croizon,11/11/2015,AM,T
+18,Philippe Croizon,11/11/2015,PM,T
+18,Philippe Croizon,12/25/2015,PM,P
+18,Philippe Croizon,12/25/2015,AM,P
+18,Philippe Croizon,12/28/2015,PM,P
+18,Philippe Croizon,12/28/2015,AM,P
+19,Trent Grimsey,12/25/2014,AM,P
+19,Trent Grimsey,12/25/2014,PM,P
+19,Trent Grimsey,12/26/2014,AM,P
+19,Trent Grimsey,12/26/2014,PM,P
+19,Trent Grimsey,1/1/2015,AM,P
+19,Trent Grimsey,1/1/2015,PM,P
+19,Trent Grimsey,4/3/2015,AM,P
+19,Trent Grimsey,4/6/2015,PM,P
+19,Trent Grimsey,4/6/2015,AM,P
+19,Trent Grimsey,5/4/2015,PM,P
+19,Trent Grimsey,5/4/2015,AM,P
+19,Trent Grimsey,5/25/2015,PM,P
+19,Trent Grimsey,5/25/2015,AM,P
+19,Trent Grimsey,8/31/2015,PM,P
+19,Trent Grimsey,8/31/2015,AM,P
+19,Trent Grimsey,12/25/2015,PM,P
+19,Trent Grimsey,12/25/2015,AM,P
+19,Trent Grimsey,12/28/2015,PM,P
+19,Trent Grimsey,12/28/2015,AM,P
+20,Philip Rush,10/27/2014,AM,V
+20,Philip Rush,10/27/2014,PM,V
+20,Philip Rush,10/28/2014,AM,V
+20,Philip Rush,10/28/2014,PM,V
+20,Philip Rush,10/29/2014,AM,V
+20,Philip Rush,10/29/2014,PM,V
+20,Philip Rush,10/30/2014,AM,V
+20,Philip Rush,10/30/2014,PM,V
+20,Philip Rush,10/31/2014,AM,V
+20,Philip Rush,10/31/2014,PM,V
+20,Philip Rush,12/25/2014,AM,P
+20,Philip Rush,12/25/2014,PM,P
+20,Philip Rush,12/26/2014,AM,P
+20,Philip Rush,12/26/2014,PM,P
+20,Philip Rush,1/1/2015,AM,P
+20,Philip Rush,1/1/2015,PM,P
+20,Philip Rush,4/3/2015,AM,P
+20,Philip Rush,4/6/2015,PM,P
+20,Philip Rush,4/6/2015,AM,P
+20,Philip Rush,5/4/2015,PM,P
+20,Philip Rush,5/4/2015,AM,P
+20,Philip Rush,5/25/2015,PM,P
+20,Philip Rush,5/25/2015,AM,P
+20,Philip Rush,8/31/2015,PM,P
+20,Philip Rush,8/31/2015,AM,P
+20,Philip Rush,11/11/2015,AM,T
+20,Philip Rush,11/11/2015,PM,T
+20,Philip Rush,12/25/2015,PM,P
+20,Philip Rush,12/25/2015,AM,P
+20,Philip Rush,12/28/2015,PM,P
+20,Philip Rush,12/28/2015,AM,P
+21,Kevin Murphy,11/3/2014,AM,T
+21,Kevin Murphy,11/3/2014,PM,T
+21,Kevin Murphy,12/25/2014,AM,P
+21,Kevin Murphy,12/25/2014,PM,P
+21,Kevin Murphy,12/26/2014,AM,P
+21,Kevin Murphy,12/26/2014,PM,P
+21,Kevin Murphy,1/1/2015,AM,P
+21,Kevin Murphy,1/1/2015,PM,P
+21,Kevin Murphy,4/3/2015,AM,P
+21,Kevin Murphy,4/6/2015,PM,P
+21,Kevin Murphy,4/6/2015,AM,P
+21,Kevin Murphy,5/4/2015,PM,P
+21,Kevin Murphy,5/4/2015,AM,P
+21,Kevin Murphy,5/25/2015,PM,P
+21,Kevin Murphy,5/25/2015,AM,P
+21,Kevin Murphy,8/31/2015,PM,P
+21,Kevin Murphy,8/31/2015,AM,P
+21,Kevin Murphy,12/25/2015,PM,P
+21,Kevin Murphy,12/25/2015,AM,P
+21,Kevin Murphy,12/28/2015,PM,P
+21,Kevin Murphy,12/28/2015,AM,P
+22,Alison Streeter,11/3/2014,AM,T
+22,Alison Streeter,11/3/2014,PM,T
+22,Alison Streeter,12/25/2014,AM,P
+22,Alison Streeter,12/25/2014,PM,P
+22,Alison Streeter,12/26/2014,AM,P
+22,Alison Streeter,12/26/2014,PM,P
+22,Alison Streeter,1/1/2015,AM,P
+22,Alison Streeter,1/1/2015,PM,P
+22,Alison Streeter,4/3/2015,AM,P
+22,Alison Streeter,4/6/2015,PM,P
+22,Alison Streeter,4/6/2015,AM,P
+22,Alison Streeter,5/4/2015,PM,P
+22,Alison Streeter,5/4/2015,AM,P
+22,Alison Streeter,5/25/2015,PM,P
+22,Alison Streeter,5/25/2015,AM,P
+22,Alison Streeter,8/31/2015,PM,P
+22,Alison Streeter,8/31/2015,AM,P
+22,Alison Streeter,12/25/2015,PM,P
+22,Alison Streeter,12/25/2015,AM,P
+22,Alison Streeter,12/28/2015,PM,P
+22,Alison Streeter,12/28/2015,AM,P
+23,Cynthia Nicholas,10/27/2014,AM,V
+23,Cynthia Nicholas,10/27/2014,PM,V
+23,Cynthia Nicholas,10/28/2014,AM,V
+23,Cynthia Nicholas,10/28/2014,PM,V
+23,Cynthia Nicholas,10/29/2014,AM,V
+23,Cynthia Nicholas,10/29/2014,PM,V
+23,Cynthia Nicholas,10/30/2014,AM,V
+23,Cynthia Nicholas,10/30/2014,PM,V
+23,Cynthia Nicholas,12/25/2014,AM,P
+23,Cynthia Nicholas,12/25/2014,PM,P
+23,Cynthia Nicholas,12/26/2014,AM,P
+23,Cynthia Nicholas,12/26/2014,PM,P
+23,Cynthia Nicholas,1/1/2015,AM,P
+23,Cynthia Nicholas,1/1/2015,PM,P
+23,Cynthia Nicholas,4/3/2015,AM,P
+23,Cynthia Nicholas,4/6/2015,PM,P
+23,Cynthia Nicholas,4/6/2015,AM,P
+23,Cynthia Nicholas,5/4/2015,PM,P
+23,Cynthia Nicholas,5/4/2015,AM,P
+23,Cynthia Nicholas,5/25/2015,PM,P
+23,Cynthia Nicholas,5/25/2015,AM,P
+23,Cynthia Nicholas,8/31/2015,PM,P
+23,Cynthia Nicholas,8/31/2015,AM,P
+23,Cynthia Nicholas,11/11/2015,AM,T
+23,Cynthia Nicholas,11/11/2015,PM,T
+23,Cynthia Nicholas,12/25/2015,PM,P
+23,Cynthia Nicholas,12/25/2015,AM,P
+23,Cynthia Nicholas,12/28/2015,PM,P
+23,Cynthia Nicholas,12/28/2015,AM,P

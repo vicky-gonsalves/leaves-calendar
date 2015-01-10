@@ -1,0 +1,93 @@
+.property_(@property, @value) {
+  _: ~"; @{property}:" @value;
+}
+
+.vendor(@property, @value) {
+  .property_('-webkit-@{property}', @value);
+  .property_('-khtml-@{property}', @value);
+  .property_('-moz-@{property}', @value);
+  .property_(@property, @value);
+}
+
+.border-bottom {
+  border-bottom: 1px solid #ccc;
+}
+
+.table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  min-width: 1024px;
+  .vendor(user-select, none);
+}
+
+.text-small {
+  font-size: 8px;
+}
+
+.text-ex-small {
+  font-size: 6px;
+}
+
+.fixed-width {
+  width: 250px;
+}
+
+.table tbody tr > .td {
+  min-width: 100px;
+}
+
+.table tbody tr > td.success {
+  background-color: #dff0d8 !important;
+}
+
+.table tbody tr > td.error {
+  background-color: #f2dede !important;
+}
+
+.table tbody tr > td.warning {
+  background-color: #fcf8e3 !important;
+}
+
+.table tbody tr > td.info {
+  background-color: #d9edf7 !important;
+}
+
+.table-hover tbody tr:hover > td.success {
+  background-color: #d0e9c6 !important;
+}
+
+.table-hover tbody tr:hover > td.error {
+  background-color: #ebcccc !important;
+}
+
+.table-hover tbody tr:hover > td.warning {
+  background-color: #faf2cc !important;
+}
+
+.table-hover tbody tr:hover > td.info {
+  background-color: #c4e3f3 !important;
+}
+
+.border-dark-left {
+  border-left: 1px solid #7391d6 !important;
+}
+
+.border-dark-right {
+  border-right: 1px solid #7391d6 !important;
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 0px !important;
+  line-height: 1.42857143;
+  vertical-align: middle !important;
+  border-top: 1px solid #dddddd;
+}
+
+.text-bold {
+  font-weight: bold;
+}
