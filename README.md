@@ -17,3 +17,6 @@ Setup is simple. First make sure MongoDB is running locally. Then simply type th
 - `npm install`
 - `bower install` (Use Angular 3.2.X)
 - `grunt serve`
+
+## Demo:
+https://leavescalendar.herokuapp.com
